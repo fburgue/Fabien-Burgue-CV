@@ -1,7 +1,3 @@
----
-layout: cv
-title: Fabien Burgue's CV
----
 # Fabien Burgue
 System Engineer, Cloud Specialist, Technical Leader.
 
@@ -99,7 +95,8 @@ __IBM | IT Service Administrator__
 ## Side Project
 Professional Photographer & Story Teller | www.fabien-burgue.be
 
-
+## Source
+[My CV on GitHub.](https://github.com/fburgue/Fabien-Burgue-CV/blob/master/index.md)
 
 
 <!-- ### Footer
