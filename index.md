@@ -1,6 +1,5 @@
 ---
-layout: cv
-title: Fabien Burgue's CV
+title: Fabien Burgue Curriculum Vitae.
 ---
 # Fabien Burgue
 System Engineer, Cloud Specialist, Technical Leader.
