@@ -1,7 +1,6 @@
----
-title: Fabien Burgue Curriculum Vitae.
----
+
 # Fabien Burgue
+
 System Engineer, Cloud Specialist, Technical Leader.
 
 <div id="webaddress">
@@ -33,6 +32,7 @@ VMware, vCloud, Azure, Linux, Software Defined Network, Terraform, Git, Powershe
 Infrastructure as Code, DevOps, Automation.
 
 ## Certifications
+
 __VMware__
 - Software Defined Network. (2020)
 - Cloud Provider Specialist. (2020)
@@ -48,6 +48,8 @@ __Linux__
   
 __Windows__
 - MCSE (2003)
+
+
 ## Education
 
 `2000-2003`
