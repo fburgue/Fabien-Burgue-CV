@@ -1,91 +1,109 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Fabien Burgue's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Fabien Burgue
+System Engineer, Cloud Specialist, Technical Leader.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="fabien.burgue@gmail.com">Fabien.Burgue@gmail.com</a>
+| <a href="https://www.linkedin.com/in/fabien-burgue-81b676192/">My LinkedIn page</a>
 </div>
 
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
+Since the beginning of studies at university I’m a new technology enthusiatic and a great fan of people who want to push forward High Tech. 
+At start there were hardware and after that virtualization came with so much stuff to play. 
+
+Structured and creative, I always want to improve myself to enjoy each day at work.
+
+Entertainer and Assertive I prefer to give ideas in fun instead of a too tight discipline. Fun is Creative and Creativity leads to Improvement…
+
+
+
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+VMware, vCloud, Azure, Linux, Software Defined Network, Terraform, Git, Powershell. [Links](https://sites.google.com/site/burguefab/home)
 
 
-### Research interests
+### Technical Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Infrastructure as Code, DevOps, Automation.
 
+## Certifications
+__VMware__
+- Software Defined Network. (2020)
+- Cloud Provider Specialist. (2020)
+- Data Center Virtualization. (2020)
 
+__Azure__
+- Fundamentals. (2021)
+- Administrator. (2021)
+
+__Linux__
+- LPIC 1. (2011) 
+- LPIC 2. (2011)
+  
+__Windows__
+- MCSE (2003)
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2000-2003`
+__IT Infrastructure & Network Mastering__
+- Université du Travail de Charleroi.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1997-2000`
+__Analyst Developer__
+- HEPMBC - Mons.
 
-- Sizar
+`1996`
+__Mathematics Mastering__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- St. Stanislas - Mons.
 
-- Fellow
+## Experience
+`2016-2021`
+__DATA CENTER OF BRUSSELS | TECH LEADER__
+- Design & Architecture of the Private Cloud Plateform.
+- Automation as Code via Life Cycle Mgm & Terraform.
+- IaaS and PaaS Life Cycle Management.
+- Keywords: VMware, vCloud, vROPS, Terraform, Git, HP Simplivity, IBM SVC, Docker, Kubernetes.
 
+`2011-2016`
+__CLINIQUES UNIVERSITAIRE ST LUC | TEAM LEADER__
+- Operational Team Leader in VMware and CITRIX Env.
+- ITIL Life Cycle.
+- Support of physical Infrastructure (EMC – HP – CISCO).
+- Keywords: VMware, XenApp, AppV, HyperV.Dell EMC, Linux Nagios, Windows DFS.
 
+`2009-2011`
+__SDN CONSULT | CEO FREELANCE__
+- Data Processing Integration (Linux – Windows)
+- Dedicated IT Projects for Clients (Project Mgmt).
+- Client Management – Technical & Sales Purposes…
+- Keywords: RedHat, Windows, Active Directory, NLB, Proxy.
 
-## Awards
+`2000-2009`
+__IBM | IT Service Administrator__
+- Lvl2 & 3 Support.
+- RBAC Management.
 
-`2012`
-President, *Royal Society*, London, UK
+## Languages
+- French: Native speaker.
+- English: Spoken - Read - Written.
+- Dutch: Academic knowledge.
 
-Associate, *French Academy of Science*, Paris, France
+## Side Project
+Professional Photographer & Story Teller | www.fabien-burgue.be
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2021 -->
 
 
