@@ -1,3 +1,4 @@
 # Fabien Burgue CV
 
-An interresting & simple way to see a CV ;-).
+An interesting way to create a CV ;-).
+
