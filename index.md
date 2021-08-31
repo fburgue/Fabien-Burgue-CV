@@ -28,7 +28,7 @@ VMware, vCloud, Azure, Linux, Software Defined Network, Terraform, Git, Powershe
 
 ### Technical Interests
 
-Infrastructure as Code, DevOps, Automation.
+Cloud Architecture, Infrastructure as Code, DevOps, Automation.
 
 ## Certifications
 
@@ -100,7 +100,7 @@ __IBM | IT Service Administrator__
 Professional Photographer & Story Teller | www.fabien-burgue.be
 
 ## Source
-[My CV on GitHub.](https://github.com/fburgue/Fabien-Burgue-CV/blob/master/index.md)
+[My Curriculum Vitae on GitHub.](https://github.com/fburgue/Fabien-Burgue-CV/blob/master/index.md)
 
 
 <!-- ### Footer
