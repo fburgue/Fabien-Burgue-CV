@@ -1,6 +1,6 @@
 # Fabien Burgue
 
-System Engineer, Cloud Specialist, Technical Leader.
+Cloud Solution Architect.
 
 <div id="webaddress">
 <a href="fabien.burgue@gmail.com">Fabien.Burgue@gmail.com</a>
@@ -30,30 +30,27 @@ VMware, vCloud, Azure, Linux, Software Defined Network, Terraform, Git, Powershe
 
 Cloud Architecture, Infrastructure as Code, DevOps, Automation.
 
-## Certifications
+## Training & Certifications
 
 __VMware__
-- Software Defined Network. (2020)
-- Cloud Provider Specialist. (2020)
-- Data Center Virtualization. (2020)
+- Software Defined Network. (Cert. 2020)
+- Cloud Provider Specialist. (Cert. 2020)
+- Data Center Virtualization. (Cert. 2020)
 
 __Azure__
-- Fundamentals. (2021)
-- Administrator. (2021)
+- Fundamentals. (Cert. 2021)
+- Administrator. (Training AZ-104)
+- Solution Architect. (Training AZ-303, AZ-304, AZ-305)
 
 __Linux__
-- LPIC 1. (2011) 
-- LPIC 2. (2011)
+- LPIC 1. (Cert. 2011) 
+- LPIC 2. (Cert. 2011)
   
-__Windows__
-- MCSE (2003)
-
-
 ## Education
 
 `2000-2003`
-__IT Infrastructure & Network Mastering__
-- Université du Travail de Charleroi.
+__Network Mastering__
+- Université du Travail de Charleroi. (Night School).
 
 `1997-2000`
 __Analyst Developer__
@@ -61,25 +58,24 @@ __Analyst Developer__
 
 `1996`
 __Mathematics Mastering__
-
 - St. Stanislas - Mons.
 
 ## Experience
-`2016-2021`
+`2015-Now`
 __DATA CENTER OF BRUSSELS | TECH LEADER__
 - Design & Architecture of the Private Cloud Plateform.
 - Automation as Code via Life Cycle Mgm & Terraform.
 - IaaS and PaaS Life Cycle Management.
-- Keywords: VMware, vCloud, vROPS, Terraform, Git, HP Simplivity, IBM SVC, Docker, Kubernetes.
+- Keywords: VMware, vCloud, vROPS, Terraform, Git, Azure, Linux, Windows, HP Simplivity, IBM SVC, Docker, Kubernetes.
 
-`2011-2016`
+`2012-2015`
 __CLINIQUES UNIVERSITAIRE ST LUC | TEAM LEADER__
-- Operational Team Leader in VMware and CITRIX Env.
+- Team Leader in VMware and CITRIX Env.
 - ITIL Life Cycle.
 - Support of physical Infrastructure (EMC – HP – CISCO).
-- Keywords: VMware, XenApp, AppV, HyperV.Dell EMC, Linux Nagios, Windows DFS.
+- Keywords: VMware, XenApp, AppV, HyperV, Dell EMC, Linux Nagios, Windows DFS.
 
-`2009-2011`
+`2009-2012`
 __SDN CONSULT | CEO FREELANCE__
 - Data Processing Integration (Linux – Windows)
 - Dedicated IT Projects for Clients (Project Mgmt).
@@ -105,6 +101,6 @@ Professional Photographer & Story Teller | www.fabien-burgue.be
 
 <!-- ### Footer
 
-Last updated: October 2021 -->
+Last updated: March 2022 -->
 
 
